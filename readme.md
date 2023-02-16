@@ -1,4 +1,3 @@
-<a align="center" href="github.com/IcyonGIt"><img src="Icy.png"/></a>
 <h1 align="center">Hi 👋, I'm Icy</h1>
 <h3 align="center">Frontend Web Developer/Wannabe Game Developer</h3>
 	
