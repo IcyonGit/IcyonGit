@@ -5,7 +5,7 @@
 	<a align="center" href="ppsholy.github.io"><img src="https://img.shields.io/badge/ppsholy.github.io-website-lightgrey?style=flat-square&logo=Accenture"/></a>
 </p>
 
-- 👨‍💻 Some of my projects are available at [github](https://github.com/IcyonGit?tab=repositories)
+- 👨‍💻 Some of my projects are available at [ppsholy](https://github.com/ppsholy?tab=repositories)
 
 
 - 📫 How to reach me 
